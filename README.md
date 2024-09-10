@@ -1,5 +1,7 @@
 # Wikipedia-like Encyclopedia
 
+This repo is based on my Project 1 for [CS50W](https://cs50.harvard.edu/web/2020/).
+
 ## Overview
 
 This project is a Django-based encyclopedia application that allows users to view, search, create, and edit entries. Entries are stored in Markdown format and rendered as HTML.
